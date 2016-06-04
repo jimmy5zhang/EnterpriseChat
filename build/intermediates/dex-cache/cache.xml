@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/libs/jg_filter_sdk_1.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/jg_filter_sdk_1.1_3e472ab87d354c8c11033616daf1dcdc8ad3d8a2.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_101390edfa0beebc0a8f475684b89e34573697c5.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0_2665f73a25a4d7aee4a5f81c7d558897cf4d385c.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_375a6b5b6ead48aaf2ba3783e9b6fba1972844f7.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/com.commit451/PhotoView/1.2.5/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="526e8a982e8d1453c548b8d3a63968ee61667a15">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/com.commit451-PhotoView-1.2.5_cf048151bf6cc0cdeb327fa4d6b8470b2ed72420.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="40b8bd4fd97c08a208d7f6e284529f29aabb51f2">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/instant-run_f1ab99289f4e132559e5603bae9b7666cf93e34c.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/libs/mid-sdk-2.10.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="5b8c105b39a07ec1c2ca81919d64eac5482dca87">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/mid-sdk-2.10_d2a1d888b28cf054b212bd2dca44569b1151725f.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/EnterpriseChat/imkit/unspecified/jars/libs/AMap_Services_V2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="521bbaedd3ea93678ddf9323c7f89aa928371ac9">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/AMap_Services_V2.4.0_97645572a660f0a7fee4986675dcd5bf0d4eeaa8.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/commons-io-1.3.2_fcbdca3cc0cb8d3d662b55bd56b4dcc34a1ab5c2.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.1.0/6025b7df8a6a4193138723ef120e7228b6a97024/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="6025b7df8a6a4193138723ef120e7228b6a97024">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0_cad14cac96154a1a482a763046dd5d4284357e86.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.1/39eff75ddcb987ff65888361a29f489c178429a3/okio-1.0.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/okio-1.0.1_8fc74297cef82df94c23c025d3e82f90c77d92c6.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="b5dde3fb32ce313eff4dd1ffb99dc41560ce7449">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_9ebe11b9a0b61dbc20af95e163e08877eb323ab9.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/com.bigkoo/svprogresshud/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="45cca9f5fd0386ff5f7a51fcfc8e2c42df4798e4">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/com.bigkoo-svprogresshud-1.0.2_2cf1f895cca15b1606b57f2462cecb9c406fbac9.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/EnterpriseChat/imkit/unspecified/jars/libs/Android_Location_V1.3.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="e94ebe298bd806556d96adb8e2f625be486b642f">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/Android_Location_V1.3.2_955c0c536c70580f89cbc93c09ce9f77d8c17008.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.5/c73038a3688525aad5cf33409df483178290cd64/joda-time-2.5.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="c73038a3688525aad5cf33409df483178290cd64">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/joda-time-2.5_2f39a6189225be0ac5c15e7c697a26327aac614f.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/wup-1.0.0-SNAPSHOT_37f5b6ddf2d9bcb423a89ae4074e54ee6606a9d1.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.1.0/9b51f7d0c19f179b52beab7cb433f8ba5cf786a4/okhttp-2.1.0.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/okhttp-2.1.0_a2f3757b82a93e808aca89f76280b3111724bbdd.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_96082a3df22d35ef4a553371a61fb4b61bfc032a.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/gson-2.6.2_23a9d08a4f20b75559b8bd4955ecd9fb8c7a3a30.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_d59e142eaee9e88beb5ec4699096faf16a3569c3.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/exploded-aar/EnterpriseChat/imkit/unspecified/jars/libs/Android_2DMapApi_V2.4.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="b6105c40d297c143474e20f7067fd8f5d2c97cc1">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/Android_2DMapApi_V2.4.1_db5f0f921db753912104e5d5abe69aa8c332120e.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-android/0.17.6/5ee05a22c96810eb453bb21e63f0c6ea83d9335e/rxjava-android-0.17.6.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="5ee05a22c96810eb453bb21e63f0c6ea83d9335e">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/rxjava-android-0.17.6_ab2f95d40aab59ee793cfb92ac808841e51309f5.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_fe5c718748e5217c62876b819ba046dc185074ed.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.5/7941cd2c2c8ec006800d75c35f8a9dacf892ab93/otto-1.3.5.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/otto-1.3.5_ec24324e5e721d837dd071ac31c0f62202176b41.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_e5c43eeb2ac278e7094dba52e6f13c2d9c92619c.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-core/0.17.6/b35d55668bb9af8b78e39ea0fda9d313b3707e11/rxjava-core-0.17.6.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="b35d55668bb9af8b78e39ea0fda9d313b3707e11">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/rxjava-core-0.17.6_8ff6defff851d78cd9a9f2827e847475e71f5fc9.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_bbabbbe8d692ff92916cc9a3de5b36bc02fc5d5c.jar" />
+    </item>
+    <item
+        jar="/Users/jimmyzhang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.7.1/168a878946d665200edc733ac715b1264a6cd7b6/retrofit-1.7.1.jar"
+        jumboMode="true"
+        revision="21.1.1"
+        sha1="168a878946d665200edc733ac715b1264a6cd7b6">
+        <dex dex="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/app/build/intermediates/pre-dexed/debug/retrofit-1.7.1_28ef2298ddfc6eeac7f5043910a71528a5e6974b.jar" />
+    </item>
+
+</items>

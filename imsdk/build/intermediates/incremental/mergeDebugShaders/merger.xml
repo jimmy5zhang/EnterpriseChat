@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imsdk/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imsdk/src/debug/shaders"/></dataSet></merger>

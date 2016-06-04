@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EnterpriseChat.iml" filepath="$PROJECT_DIR$/EnterpriseChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctcp/asynctcp.iml" filepath="$PROJECT_DIR$/asynctcp/asynctcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imkit/imkit.iml" filepath="$PROJECT_DIR$/imkit/imkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imsdk/imsdk.iml" filepath="$PROJECT_DIR$/imsdk/imsdk.iml" />
+    </modules>
+  </component>
+</project>

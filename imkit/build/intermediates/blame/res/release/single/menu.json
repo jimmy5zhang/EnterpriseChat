@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/release/menu/location_picker.xml",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/menu/location_picker.xml"
+    },
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/release/menu/menu_photo.xml",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/menu/menu_photo.xml"
+    },
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/release/menu/chat.xml",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/menu/chat.xml"
+    }
+]

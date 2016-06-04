@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/assets"/><source path="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/debug/assets"/></dataSet></merger>

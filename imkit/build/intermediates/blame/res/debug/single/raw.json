@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/debug/raw/record_start.mp3",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/raw/record_start.mp3"
+    },
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/debug/raw/play_end.mp3",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/raw/play_end.mp3"
+    },
+    {
+        "merged": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/build/intermediates/res/merged/debug/raw/record_end.mp3",
+        "source": "/Users/jimmyzhang/Documents/dev_code/android/studio/EnterpriseChat/imkit/src/main/res/raw/record_end.mp3"
+    }
+]
